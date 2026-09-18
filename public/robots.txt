@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://topic02.amazon-hike.com/sitemap.xml

@@ -1,0 +1,6 @@
+{
+  "name": "登山飲用水處理與水源判斷｜登山入門指南｜亞馬遜國家山岳協會",
+  "description": "亞馬遜國家山岳協會登山飲用水主題教案：提供山區水源觀察、清澈與濁水判斷、過濾器原理與流速分析、煮沸與淨水錠化學消毒、活性碳使用、裝備保養與防凍、避免交叉污染及完整水源處理決策流程指南。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
