@@ -31,14 +31,14 @@ export const HeroBanner: React.FC = () => {
             登山入門指南
           </a>
           <ChevronRight className="w-3.5 h-3.5 text-slate-600" />
-          <span className="text-emerald-300 font-medium">TOPIC 02 水源判斷與淨化</span>
+          <span className="text-emerald-300 font-medium">水源判斷與淨化</span>
         </nav>
 
         {/* Topic Tag & Authority Badge */}
         <div className="flex flex-wrap items-center gap-2.5 mb-5">
           <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-semibold bg-emerald-950/80 border border-emerald-700/60 text-emerald-300">
             <Droplets className="w-3.5 h-3.5 text-emerald-400" />
-            登山安全技術專題教案・TOPIC 02
+            登山安全技術專題教案
           </span>
           <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-medium bg-slate-900 border border-slate-800 text-slate-400">
             野外水質學與微生物防禦

@@ -55,9 +55,6 @@ export const Header: React.FC<HeaderProps> = () => {
             <div className="flex flex-col text-left">
               <span className="text-base sm:text-lg font-bold tracking-tight text-white group-hover:text-emerald-300 transition-colors flex items-center gap-1.5">
                 亞馬遜國家山岳協會
-                <span className="text-[10px] uppercase font-semibold tracking-wider px-1.5 py-0.5 rounded bg-emerald-950/80 border border-emerald-800/60 text-emerald-400">
-                  TOPIC 02
-                </span>
               </span>
               <span className="text-[11px] font-medium tracking-wider text-slate-400 group-hover:text-slate-300">
                 Amazon Alpine Association
