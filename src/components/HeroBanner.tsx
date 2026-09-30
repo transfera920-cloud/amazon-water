@@ -14,7 +14,7 @@ export const HeroBanner: React.FC = () => {
         {/* Breadcrumb Navigation */}
         <nav aria-label="Breadcrumb" className="mb-6 flex items-center gap-2 text-xs sm:text-sm text-slate-400">
           <a 
-            href="https://amazon-hike.com/intro" 
+            href="https://amazon-hike.com/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="hover:text-emerald-400 transition-colors"
@@ -23,7 +23,7 @@ export const HeroBanner: React.FC = () => {
           </a>
           <ChevronRight className="w-3.5 h-3.5 text-slate-600" />
           <a 
-            href="https://amazon-hike.com/intro" 
+            href="https://amazon-hike.com/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="hover:text-emerald-400 transition-colors"
