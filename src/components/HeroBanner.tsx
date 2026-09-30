@@ -23,7 +23,7 @@ export const HeroBanner: React.FC = () => {
           </a>
           <ChevronRight className="w-3.5 h-3.5 text-slate-600" />
           <a 
-            href="https://amazon-hike.com/" 
+            href="https://amazon-hike.com/intro" 
             target="_blank" 
             rel="noopener noreferrer"
             className="hover:text-emerald-400 transition-colors"

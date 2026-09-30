@@ -81,7 +81,7 @@ export default function App() {
               </p>
               <div className="pt-2">
                 <a
-                  href="https://amazon-hike.com/"
+                  href="https://amazon-hike.com/intro"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-5 py-2.5 rounded-lg bg-emerald-600 hover:bg-emerald-500 text-white font-semibold text-sm transition-colors shadow-lg shadow-emerald-950/50"
