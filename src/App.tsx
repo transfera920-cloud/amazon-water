@@ -58,7 +58,7 @@ export default function App() {
                 二十大章節技術全詳解
               </h2>
               <p className="text-xs sm:text-sm text-slate-400 mt-2">
-                由亞馬遜國家山岳協會技術委員會編纂，涵蓋從水生病原、微孔物理學到高山防凍之全方位實戰知識。
+                涵蓋從水生病原、微孔物理學到高山防凍之全方位實戰知識。
               </p>
             </div>
 
